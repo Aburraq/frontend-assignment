@@ -6,7 +6,7 @@ This repository contains the frontend technical assignment for HubX, demonstrati
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Aburraq/frontend-assignment.git](https://www.google.com/search?q=https://github.com/Aburraq/frontend-assignment.git)
+    git clone [https://github.com/Aburraq/frontend-assignment.git]
     cd frontend-assignment
     ```
 2.  **Install dependencies:**
